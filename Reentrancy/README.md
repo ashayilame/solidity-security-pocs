@@ -30,4 +30,5 @@ Here is how the functions were called
 Using preventive techniques like :
 - Ensure all state changes happen before calling external contracts
 - Use function modifiers that prevent re-entrancy
+
 we've averted the attack!
