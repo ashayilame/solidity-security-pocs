@@ -1,7 +1,7 @@
-Solidity < 0.8
+Solidity >= 0.8
 Integers in Solidity overflow / underflow without any errors
 
-Solidity >= 0.8
+Solidity < 0.8
 Default behaviour of Solidity 0.8 for overflow / underflow is to throw an error.
 
  This contract is designed to act as a time vault.
